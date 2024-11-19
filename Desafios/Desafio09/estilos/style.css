@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(58, 58, 58);
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+}
+#Volta{
+    border: 0.5vh solid white;
+    border-radius: 50%;
+    height: 7vh;
+    width: 7vh;
+    margin: auto;
+    margin-top: 5px;
+    align-items: center;
+}
+p > a {
+    font-size: 5vh;
+}
+div > p{
+    margin: 0;
+}
